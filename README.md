@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hey, hola!<br><br>Mi nombre es José Luis Badillo, soy ingeniero en desarrollo y gestión de software.<br>Egresado de la Universidad Tecnológica de Tecamac (UTTEC).<br><br>Me apasiona el desarrollo web, temas de emprendimiento.<br><br>Actualmente trabajo con tecnologías como; HTML, CSS, PHP, Laravel, Bootstrap, Tailwind, Livewire, MySQL.<br><br>Aspirante para la Licenciatura en Gestión y Administración de PyME
+¡Hey, hola!<br><br>Mi nombre es José Luis Badillo, soy ingeniero en desarrollo y gestión de software.<br><br>Me apasiona el desarrollo web, temas de emprendimiento.<br><br>Actualmente trabajo con tecnologías como; HTML, CSS, PHP, Laravel, Bootstrap, Tailwind, Livewire, MySQL.<br><br>Aspirante para la Licenciatura en Gestión y Administración de PyME
 
 
 # 💻 Tech Stack:
